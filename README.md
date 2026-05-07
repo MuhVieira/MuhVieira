@@ -1,7 +1,7 @@
 <div>
   <h1>Prazer, sou o Murilo</h1><br>
   Iniciante em backend e frontend<br>
-  Estudando Informática para a Internet<br>
+  Estudante de Análise e Desenvolvimento de Sistemas - FATEC Indaiatuba<br>
   Gosto de café e games
 </div>
 <div>
