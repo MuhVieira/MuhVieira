@@ -1,6 +1,6 @@
 <div>
   <h1>Prazer, sou o Murilo</h1><br>
-  Iniciante em backend e frontend<br>
+  A procura de uma primeira oportunidade de estágio ou vaga inicial em T.I<br>
   Estudante de Análise e Desenvolvimento de Sistemas - FATEC Indaiatuba<br>
   Gosto de café e games
 </div>
