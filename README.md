@@ -1,6 +1,6 @@
 <div>
   <h1>Prazer, sou o Murilo</h1><br>
-  ## Olá, eu sou Murilo Rezende 👋
+  Olá, eu sou Murilo Rezende Vieira 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.
 
