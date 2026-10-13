@@ -11,13 +11,13 @@
 - Node.js
 - APIs REST
 - Banco de Dados
-- Python
+- Java
 
 📚 Buscando minha primeira oportunidade de estágio em Tecnologia.
 
 ## Tecnologias
 
-JavaScript | TypeScript | Node.js | Python | SQL | Git
+JavaScript | TypeScript | Node.js | Java | SQL | Git
 
 ## Contato
 
